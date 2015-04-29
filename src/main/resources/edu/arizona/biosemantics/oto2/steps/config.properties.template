@@ -1,0 +1,22 @@
+#Ontology
+permanentOntologyDirectory=
+collectionOntologyDirectory=
+etcOntologyBaseIRI=http://www.etc-project.org/owl/ontologies/
+oboOntologyBaseIRI=http://purl.obolibrary.org/obo/
+
+#Database
+databaseName=
+databaseUser=
+databasePassword=
+databaseHost=
+databasePort=
+
+#Temporary Storage
+files = 
+
+#Bioportal
+bioportalUrl=http://data.bioontology.org
+bioportalApiKey=
+
+#OTO
+otoClientUrl=http://biosemantics.arizona.edu:8080/OTO/
